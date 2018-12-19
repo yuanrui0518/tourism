@@ -1,0 +1,110 @@
+{
+    "id": 10,
+    "name": "张裕瑞纳城堡酒庄",
+    "price": 96,
+    "tag": "随买随用",
+    "address": [
+        "渭城区",
+        "陕西省咸阳市渭城区魏城镇"
+    ],
+    "score": 4.9,
+    "commitCount": 1898,
+    "smallImg": "http://img1.qunarzz.com/sight/p0/1505/b0/b093339694db4a11.water.jpg_200x200_10f65a8e.jpg",
+    "bigImg": "//img1.qunarzz.com/sight/p0/1505/b0/b093339694db4a11.water.jpg_600x330_e06c66c3.jpg",
+    "product": {
+        "recommend": [
+            {
+                "name": "张裕瑞那酒庄城堡成人票(西城高铁惠民票)",
+                "remark": [
+                    "16:30前随时使用"
+                ],
+                "label": [
+                    "随时退"
+                ],
+                "price": 58
+            },
+            {
+                "name": "张裕瑞那酒庄城堡成人票",
+                "remark": [
+                    "17:30前随时使用"
+                ],
+                "label": [
+                    "随时退",
+                    "自营"
+                ],
+                "price": 96
+            },
+            {
+                "name": "张裕瑞那酒庄城堡成人票 双人票 景区取票",
+                "remark": [
+                    "16:30前随时使用"
+                ],
+                "label": [
+                    "随时退",
+                    "赠券¥4.0"
+                ],
+                "price": 188
+            }
+        ],
+        "sale": [
+            {
+                "name": "【西城高铁惠民票】张裕瑞那酒庄城堡成人通票",
+                "remark": [],
+                "label": [],
+                "price": 58
+            }
+        ],
+        "ticket": [
+            {
+                "name": "张裕瑞那酒庄城堡成人通票",
+                "remark": [],
+                "label": [],
+                "price": 96
+            },
+            {
+                "name": "张裕瑞那酒庄城堡双人通票",
+                "remark": [],
+                "label": [],
+                "price": 187.5
+            }
+        ],
+        "ticketPackage": [
+            {
+                "name": "张裕瑞那城堡亲子票",
+                "remark": [],
+                "label": [],
+                "price": 150
+            }
+        ]
+    },
+    "comment": [
+        {
+            "text": "景色美丽 心旷神怡 地点有点远 滴滴过去的 酒庄内吃的很好 量大 实惠 价格公道 服务很好 看你是哪种心情了 如果看景色没问题 想想门票就有问题 略贵 120成人 学生60 园区内不用坐观光车 红酒拿门票刷下机器就会出来 可以品尝一点 很少的 显得小气 不要想喝酒这事啦 绿化的很好 走时给了100ml白兰地 自己灌的 出门打车不好打 被坑了 到附近住宿的地方很近也在机场附近 要了50元 十分钟就到了 其实那块好坐车的 问问后面的厨师要个电话 他们都有熟人拉客的 价格合理就走呗 住在机场附近了 明早去机场 还有也可以订房间带接送的 我们这个是只接送机服务的 明早给送过去 还好损失小了一点 哈哈",
+            "score": 5,
+            "time": "2018-05-22",
+            "username": "雨*香",
+            "imgList": [
+                "https://imgs.qunarzz.com/p/tts3/1805/84/9368aa5bc5a02502.jpg_228x168_928f7eb7.jpg",
+                "https://imgs.qunarzz.com/p/tts8/1805/d9/862d19e66a64b302.jpg_228x168_e2849a55.jpg",
+                "https://imgs.qunarzz.com/p/tts0/1805/64/7fc4aeda33abbe02.jpg_228x168_bf43293d.jpg",
+                "https://imgs.qunarzz.com/p/tts8/1805/f3/b53dc321e540dd02.jpg_228x168_9c1256a1.jpg",
+                "https://imgs.qunarzz.com/p/tts9/1805/79/ef76040f1ff50602.jpg_228x168_e050de33.jpg",
+                "https://imgs.qunarzz.com/p/tts0/1805/71/1cad12e739e13a02.jpg_228x168_4b061e4d.jpg"
+            ]
+        },
+        {
+            "text": "先说路线吧，在咸阳火车站坐38路公交直达（注：先坐绿色38路到渭城区政府站后换乘白色38路公交即到，白色38路公交是免费乘坐）。再说景区，个人觉得这是一段奇妙的经历，讲解还是很有必要请的，可以让你更好地了解张裕酒庄了解红酒文化",
+            "score": 5,
+            "time": "2017-09-28",
+            "username": "豆*的",
+            "imgList": [
+                "https://imgs.qunarzz.com/piao/fusion/1709/1f/a33b83a6fe987802.jpg_228x168_ba648011.jpg",
+                "https://imgs.qunarzz.com/piao/fusion/1709/9b/6bbee2de0fde8a02.jpg_228x168_9c1009df.jpg",
+                "https://imgs.qunarzz.com/piao/fusion/1709/c7/75200a914509c602.jpg_228x168_b50b17a8.jpg",
+                "https://imgs.qunarzz.com/piao/fusion/1709/c4/a156911b2958e102.jpg_228x168_a56460cd.jpg",
+                "https://imgs.qunarzz.com/piao/fusion/1709/bb/ca7c33a7a4a63002.jpg_228x168_eb71ba01.jpg",
+                "https://imgs.qunarzz.com/piao/fusion/1709/d3/9f2703e6c75cb702.jpg_228x168_fefc07a1.jpg"
+            ]
+        }
+    ]
+}
